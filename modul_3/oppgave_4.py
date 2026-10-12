@@ -25,4 +25,4 @@ print(poeng)
 #---Refleksjon---
 # Alle untatt den ene fikk jeg riktig, jeg tenkte ikke over at den lagret svaret fra forrige linje og brukte det videre.
 # Datatypen endret seg fra integer til float på den siste linjen, den endrer seg til float når man deler for at man ikke skal miste desimaler og vise tallet mer nøyaktig siden det ofte kan bli desimaler når man deler.
-# Mer ryddig kode, slipper å skrive samme variabelen flere ganger. Gjør koden mer leselig. 
+# Mer ryddig kode, slipper å skrive samme variabelen flere ganger. Gjør koden mer leselig. Samle steg, late.
